@@ -1,0 +1,8 @@
+.idea
+
+**/bin/
+**/obj/
+**/packages/
+build_artifacts/
+
+mono*.blob
